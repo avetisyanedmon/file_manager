@@ -1,0 +1,45 @@
+.inputs_box {
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 25px 15px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.inputs_box button {
+  padding: 5px;
+  margin-left: 10px;
+  background: #3f51b5;
+  border: 0;
+  color: white;
+  font-weight: 600;
+}
+
+.inputs_box input {
+  padding: 4px;
+}
+
+.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.content_box {
+  padding: 15px 25px;
+  margin: 25px 15px;
+  border: 1px solid black;
+  border-radius: 3px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.content_box img {
+  width: 100px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
