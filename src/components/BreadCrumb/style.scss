@@ -1,0 +1,19 @@
+.bread_wrapper {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #4444;
+
+    
+}
+.bread_item{
+    display: flex;
+    justify-content: center;
+
+    p{
+        margin-left: 5px;
+        cursor: pointer;
+    }
+ }
+ .item_slash {
+     color: rgb(158, 158, 158);
+ }

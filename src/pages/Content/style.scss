@@ -1,4 +1,4 @@
-.inputs_box {
+.inputs_wrapper {
     margin: 0 auto;
     display: flex;
     margin: 25px 15px;
@@ -23,5 +23,15 @@
     textarea {
         width: 100vw;
         height: 100vh;
+    }
+}
+.trash{
+    display: flex;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    img{
+        width: 100px;
+        padding: 15px;   
     }
 }

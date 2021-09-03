@@ -1,0 +1,28 @@
+.bread_wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border: 1px solid #4444;
+}
+
+.bread_item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.bread_item p {
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.item_slash {
+  color: #9e9e9e;
+}
+/*# sourceMappingURL=style.css.map */
